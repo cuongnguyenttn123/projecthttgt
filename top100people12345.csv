@@ -1,0 +1,101 @@
+rank,name,totalassets,age,company,national
+#1,Bill Gates,89.3,61,Microsoft,Hoa Kỳ
+#2,Jeff Bezos,84.1,53,Amazon.com,Hoa Kỳ
+#3,Amancio Ortega,84,81,Zara,Tây Ban Nha
+#4,Warren Buffett,76.6,86,Berkshire Hathaway,Hoa Kỳ
+#5,Carlos Slim Helu,64.8,77,viễn thông,Mexico
+#6,Mark Zuckerberg,62.9,33,Facebook,Hoa Kỳ
+#7,Larry Ellison,55.5,72,phần mềm,Hoa Kỳ
+#8,Bernard Arnault,54.1,68,LVMH,Pháp
+#9,Michael Bloomberg,51.3,75,Bloomberg LP,Hoa Kỳ
+#10,Charles Koch,47.8,81,đa dạng,Hoa Kỳ
+#10,David Koch,47.8,77,đa dạng,Hoa Kỳ
+#12,Larry Page,45.2,44,Google,Hoa Kỳ
+#13,Liliane Bettencourt,44.8,94,L’Oreal,Pháp
+#14,Sergey Brin,43.9,43,Google,Hoa Kỳ
+#15,Jim Walton,36.8,69,Wal-Mart,Hoa Kỳ
+#16,S. Robson Walton,36.7,72,Wal-Mart,Hoa Kỳ
+#17,Alice Walton,36.5,67,Wal-Mart,Hoa Kỳ
+#18,Sheldon Adelson,36.2,83,casino,Hoa Kỳ
+#19,Li Ka-shing,33,89,đa dạng,Hồng Kông
+#20,Jack Ma,33,52,thương mại điện tử,Trung Quốc
+#21,Steve Ballmer,31.8,61,Microsoft,Hoa Kỳ
+#22,Ma Huateng,31.8,45,truyền thông trực tuyến,Trung Quốc
+#23,Wang Jianlin,31.2,62,bất động sản,Trung Quốc
+#24,Mukesh Ambani,31,60,"dầu mỏ, khí đốt",Ấn Độ
+#25,Jorge Paulo Lemann,30.1,77,bia,Brazil
+#26,Beate Heister & Karl Albrecht Jr.,29.2,–,siêu thị,Đức
+#27,Maria Franca Fissolo,28.6,82,"Nutella, sôcôla",Italy
+#28,David Thomson,27.6,60,truyền thông,Canada
+#29,Jacqueline Mars,27.5,77,bánh kẹo,Hoa Kỳ
+#29,John Mars,27.5,81,bánh kẹo,Hoa Kỳ
+#31,Lee Shau Kee,26.1,89,bất động sản,Hồng Kông
+#32,George Soros,25.2,86,quỹ đầu tư,Hoa Kỳ
+#33,Phil Knight,24.3,79,Nike,Hoa Kỳ
+#34,Masayoshi Son,23.1,59,"internet, viễn thông",Nhật Bản
+#35,Georg Schaeffler,22.6,52,ô tô,Đức
+#36,Kjeld Kirk Kristiansen,22.2,69,Lego,Đan Mạch
+#37,Hui Ka Yan,22.1,58,bất động sản,Trung Quốc
+#38,Susanne Klatten,22.1,55,"BMW, dược phẩm",Đức
+#39,Joseph Safra,21.3,78,ngân hàng,Brazil
+#40,Leonardo Del Vecchio,21.1,82,mắt kính,Italy
+#41,Francois Pinault,21,80,hàng hiệu,Pháp
+#42,Dieter Schwarz,20.9,77,bán lẻ,Đức
+#43,Wang Wei,20.3,46,giao hàng trọn gói,Trung Quốc
+#44,Michael Dell,20.2,52,Dell computers,Hoa Kỳ
+#45,Paul Allen,20.1,64,"Microsoft, đầu tư",Hoa Kỳ
+#46,Laurene Powell Jobs,19.7,53,"Apple, Disney",Hoa Kỳ
+#47,Serge Dassault,19.4,92,đa dạng,Pháp
+#48,"Theo Albrecht, Jr.",19.3,66,"Aldi, Trader Joe’s",Đức
+#49,Len Blavatnik,19,60,đa dạng,Hoa Kỳ
+#50,Stefan Quandt,18.8,51,BMW,Đức
+#51,Charles Ergen,18.6,64,Truyền hình vệ tinh,Hoa Kỳ
+#52,Lee Kun-Hee,18.2,75,Samsung,Hàn Quốc
+#53,Stefan Persson,18.1,69,H&M,Thụy Điển
+#54,James Simons,18,79,quỹ đầu tư,Hoa Kỳ
+#55,William Ding,17.3,45,trò chơi trực tuyến,Trung Quốc
+#56,Prince Alwaleed Bin Talal Alsaud,17.3,62,đầu tư,Ả Rrập Saudi
+#57,Dietrich Mateschitz,17.2,73,Red Bull,Úc
+#58,David & Simon Reuben,17.1,74,"đầu tư, bất động sản",Vuong quốc Anh
+#59,Elon Musk,17,45,Tesla Motors,Hoa Kỳ
+#60,Hinduja family,16.8,–,đa dạng,Vuong quốc Anh
+#61,Tadashi Yanai,16.8,68,bán lẻ thời trang,Nhật Bản
+#62,Ray Dalio,16.8,67,quỹ đầu tư,Hoa Kỳ
+#63,Leonid Mikhelson,16.6,61,"khí đốt, hóa chất",Nga
+#64,Charoen Sirivadhanabhakdi,16.5,73,"đồ uống, bất động sản",Thái Lan
+#65,Azim Premji,16.1,71,dịch vụ phần mềm,Ấn Độ
+#66,Thomas & Raymond Kwok,16.1,–,bất động sản,Hồng Kông
+#67,Carl Icahn,16.1,81,đầu tư,Hoa Kỳ
+#68,Patrick Drahi,15.3,53,viễn thông,Pháp
+#69,Lui Che Woo,15.2,88,casino,Hồng Kông
+#70,Donald Bren,15.2,85,bất động sản,Hoa Kỳ
+#71,Abigail Johnson,15.1,55,quản lý tài chính,Hoa Kỳ
+#72,Marcel Herrmann Telles,15.1,67,bia,Brazil
+#73,Pallonji Mistry,15.1,88,xây dựng,Ireland
+#74,Charlene de Carvalho-Heineken,14.9,62,Heineken,Hà Lan
+#75,He Xiangjian,14.8,74,đồ gia dụng,Trung Quốc
+#76,Joseph Lau,14.8,65,bất động sản,Hồng Kông
+#77,Yang Huiyan,14.6,35,bất động sản,Trung Quốc
+#78,Vladimir Lisin,14.4,61,"thép, vận chuyển",Nga
+#79,Gennady Timchenko,14.3,64,"dầu mỏ, khí đốt",Nga
+#80,Henry Sy,14.3,92,Tập đoàn đầu tư SM,Philippines
+#81,Heinz Hermann Thiele,14.3,76,phanh,Đức
+#82,Alexey Mordashov,14.3,51,"thép, dầu tư",Nga
+#83,Mikhail Fridman,14.1,53,"dầu mỏ, ngân hàng, viễn thông",Nga
+#84,Aliko Dangote,14.1,60,"Xi măng, đường, bột",Nigeria
+#85,Takemitsu Takizaki,14,72,cảm biến,Nhật Bản
+#86,Alisher Usmanov,14,63,"thép, viễn thông, đầu tư",Nga
+#87,Klaus-Michael Kuehne,14,80,giao hàng,Đức
+#88,Gina Rinehart,14,63,khai thác mỏ,Úc
+#89,Lakshmi Mittal,13.6,67,thép,Ấn Độ
+#90,Iris Fontbona,13.6,74,khai thác mỏ,Chile
+#91,Thomas Peterffy,13.5,72,Môi giới giảm giá,Hoa Kỳ
+#92,Petr Kellner,13.5,53,"tài chính, ngân hàng",Cộng hòa Séc
+#93,Vladimir Potanin,13.2,56,kim loại,Nga
+#94,Vagit Alekperov,13.1,66,dầu mỏ,Nga
+#95,Emmanuel Besnier,13,46,phô mai,Pháp
+#96,Steve Cohen,13,61,quỹ đầu tư,Hoa Kỳ
+#97,Carlos Alberto Sicupira,13,69,bia,Brazil
+#98,German Larrea Mota Velasco,12.9,63,khai thác mỏ,Mexico
+#99,Stefano Pessina,12.8,76,dược phẩm,Italy
+#100,Viktor Vekselberg,12.7,60,"kim loại, năng lượng",Nga
